@@ -16,7 +16,7 @@ My main goals when making a game are:
 - [x] Addictive gameplay
 - [x] To make something a bit different
 
-For now I'm running a one man show but I could surely have some help in the future, especially in the graphic department.
+For now I'm running a one man show but I surely could have some help in the future, especially in the graphic department.
 
 <br/><br/>
 
@@ -30,7 +30,6 @@ For now I'm running a one man show but I could surely have some help in the futu
 
 <img src="assets/ysns_cover.png" width="350" />
 <br/>
-<br/>
 
 >Two burglars try to break into a house but end up in the worst nightmare of their lives. You play as John, a man that is paying a high price for his mistake. Wake up in a dungeon just in time to be the next guinea pig of a crazy secret society that gets some help from the authorities.
 >
@@ -38,7 +37,6 @@ For now I'm running a one man show but I could surely have some help in the futu
 
 <br/>
 
-|   |    |
 |---| ---|
 System          | *Sega Mega Drive / Genesis*
 Release Date    |  Jan 20, 2023
@@ -49,7 +47,6 @@ Programmer      | Bala
 Graphics        | Bala
 Music           | Bala
 SFX (except mechanical noises)  | Bala
-|
 
 
 
