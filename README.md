@@ -37,8 +37,9 @@ For now I'm running a one man show but I surely could have some help in the futu
 
 <br/>
 
-|---| ---|
+
 System          | *Sega Mega Drive / Genesis*
+---             | ---
 Release Date    |  Jan 20, 2023
 Genre           | *Beat 'em Up / Platformer / Survival horror*
 Publisher       | Bala
