@@ -39,8 +39,17 @@ body {
 
 .socialIcons {
     width: 50px !important;
-    float: inline-start
+    float: inline-start;
+    transition: 1s ease;
 }
+
+.socialIcons:hover{
+-webkit-transform: rotateZ(100deg);
+-ms-transform: rotateZ(100deg);
+transform: rotateZ(100deg);
+transition: .5s ease;
+}
+
 
 #rightBox {
     display: block;
@@ -105,7 +114,8 @@ a:hover {
     #leftBox {
         text-align: center;
         position: relative;
-        width: 100%;
+        width: 96%;
+        padding: 2%;
         height: 10%;
         background-color: $color_2;
         align-items: center;
@@ -116,18 +126,28 @@ a:hover {
     }
 
     #leftBoxHeader {
+        display: flex;
         float: left;
-        width: 50%;
-    
-        #balaLogo{
+        width: 46%;
+        margin: 2%;
+        align-items: center;
+
+
+        #balaLogo {
             width: 100%;
         }
     }
 
     #leftBoxFooter {
         position: relative;
+        display: flex;
+        justify-content: space-evenly;
         width: 50%;
         float: right;
+
+        img {
+            display: block;
+        }
     }
 
     #rightBox {

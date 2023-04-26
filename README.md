@@ -16,7 +16,7 @@ My main goals when making a game are:
 - [x] Addictive gameplay
 - [x] To make something a bit different
 
-For now I'm running a one man show but I surely could have some help in the future, especially in the graphic department.
+For now I'm running a one man show but I surely could use some help in the future, especially in the graphic department.
 
 <br/><br/>
 
